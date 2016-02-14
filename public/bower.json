@@ -1,0 +1,27 @@
+{
+  "name": "industry_booking",
+  "authors": [
+    "Tom <contact@tomraine.com>"
+  ],
+  "description": "A booking system for industries like cleaners, landscaping, electritians etc",
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "~2.6.0"
+  }
+}

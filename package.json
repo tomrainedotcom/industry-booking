@@ -1,0 +1,25 @@
+{
+  "name": "industry_booking",
+  "version": "1.0.0",
+  "description": "A booking system for industries such as cleaners, landacpaers, dog walkers etc.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Tom Raine <contact@tomraine.com>",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0",
+    "joi": "^8.0.0",
+    "sequelize": "^3.19.2",
+    "sqlite3": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-nodemon": "^1.0.5",
+    "sequelize-cli": "^1.0.3"
+  }
+}
